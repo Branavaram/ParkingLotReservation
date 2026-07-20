@@ -1,5 +1,9 @@
 # ParkingLotReservationApp
 
+![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A Java console application for managing a parking lot: zones, slot reservations, and owner registration.
 
 ## Overview
